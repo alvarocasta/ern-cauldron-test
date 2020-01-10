@@ -1,0 +1,8 @@
+{
+  "manifest": {
+    "override": {
+      "url": "git@github.com:alvarocasta/electrode-native-manifest.git",
+      "type": "partial"
+    }
+  }
+}
